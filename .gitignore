@@ -1,0 +1,8 @@
+# Ignored Files
+src/Grader/bin/
+src/Grader/obj/
+
+# Ignored Test Files
+test/Grader.Tests/bin/
+test/Grader.Tests/obj/
+test/Grader.Tests/coverage.json
